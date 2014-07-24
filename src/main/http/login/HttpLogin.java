@@ -51,7 +51,7 @@ public class HttpLogin {
 	
 	private static String username = "";
 	private static String password = "";
-	private static String province = "38";
+	private static String province = "";
 	private static String verifyCode;
 	
 	private static List<String> numberList = Arrays.asList("18650627324", 
