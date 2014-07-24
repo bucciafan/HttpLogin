@@ -49,8 +49,8 @@ public class HttpLogin {
 	private static String selectNumberUrl = "http://esales.10010.com/pages/g3bsp/sub/postpaidsub/g3postpaid_sub_new.jsf?authKey=5158DXUr2cH9aG9CHgjhFUrxJlWv8%3D";
 	private static String submitNumberUrl = "http://esales.10010.com/pages/g3bsp/sub/postpaidsub/g3postpaid_sub_new.jsf";
 	
-	private static String username = "5990104101";
-	private static String password = "Aa1234";
+	private static String username = "";
+	private static String password = "";
 	private static String province = "38";
 	private static String verifyCode;
 	
